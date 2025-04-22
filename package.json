@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/nxfetcher.git"
+    "url": "git+https://github.com/developersajadur/nxfetcher-npm"
   },
   "keywords": [
     "next.js",
@@ -26,9 +26,9 @@
   "author": "Sajadur Rahman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/your-username/nxfetcher/issues"
+    "url": "https://github.com/developersajadur/nxfetcher/issues"
   },
-   "homepage": "https://github.com/your-username/nxfetcher#readme",
+   "homepage": "https://github.com/developersajadur/nxfetcher-npm#readme",
   "type": "commonjs",
   "devDependencies": {
     "@types/react": "^19.1.2",
